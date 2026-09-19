@@ -1,0 +1,14 @@
+Notas del ejercicio de Git
+==========================
+
+Cosas que quiero recordar:
+
+- Un commit es una foto del proyecto en un momento dado.
+- El area de staging sirve para elegir QUE cambios entran en la
+  siguiente foto. No todo lo que edito tiene que ir junto.
+- Un archivo pasa por tres estados:
+    1. Modificado (lo cambie, Git no lo tiene apuntado)
+    2. En staging (le hice git add)
+    3. Confirmado (le hice git commit)
+- git push solo sube commits que ya existen en mi computador.
+- git diff compara el disco contra el ultimo commit.
