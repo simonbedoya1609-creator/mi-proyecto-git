@@ -12,3 +12,4 @@ Cosas que quiero recordar:
     3. Confirmado (le hice git commit)
 - git push solo sube commits que ya existen en mi computador.
 - git diff compara el disco contra el ultimo commit.
+Linea de practica agregada en el paso 6.
